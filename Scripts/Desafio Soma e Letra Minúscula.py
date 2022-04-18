@@ -10,4 +10,4 @@ print("")
 print("DESAFIO 2 AULA 06")
 n = input("digite algo: ") 
 print(n.islower(), ", pois está em letra minúscula") #Se letras minúsculas, retorna TRUE
-print(n.isnumeric(), ", pois não é um número" ) #Se soma inicial conter dois números, retorna TRUE
+print(n.isnumeric(), ", pois não é um número" ) #Se soma inicial conter dois números, retorna TRUE se não FALSE e exibe mensagem.
